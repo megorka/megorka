@@ -21,6 +21,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/megorka/megorka/blob/output/github-contribution-grid-snake.svg" /></p>
+![Snake](https://github.com/megorka/megorka/blob/output/github-contribution-grid-snake.svg)
 
 ###
