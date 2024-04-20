@@ -21,6 +21,6 @@
 
 <br clear="both">
 
-![Snake](https://github.com/megorka/megorka/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/megorka/megorka/output/snake.svg" alt="Snake animation" />
 
 ###
