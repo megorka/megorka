@@ -1,5 +1,15 @@
 <h2 align="left">Hi 👋! My name is Egor and I'm a newbie Python developer since 2024 from Russia</h2>
 
+# 💫About Me :
+- 😎 I'm Egor, a newbie C# and Python developer since 2023
+
+- 🔭 I’m currently working on nothing
+
+- ❓ When project broken my team asked me for fix errors  
+
+
+- ⚡ Fun fact: I like when my team working with me 
+
 ###
 
 <div align="center">
