@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Egor and I'm a newbie Python developer since 2024 from Russia</h2>
+<h2 align="left">Hi 👋!</h2>
 
 # 💫About Me :
 - 😎 I'm Egor, a newbie C# and Python developer since 2023
