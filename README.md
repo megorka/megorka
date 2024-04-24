@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋!</h2>
 
 # 💫About Me :
-- 😎 I'm Egor, a newbie C# and Python developer since 2023
+- 😎 I'm Egor, a newbie Python developer since 2024
 
 - 🔭 I’m currently working on nothing
 
