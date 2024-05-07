@@ -3,7 +3,7 @@
 # 💫About Me :
 - 😎 I'm Egor, a newbie Python developer since 2024
 
-- 🔭 I’m currently working on django-shop
+- 🔭 I’m currently working on <a href="https://github.com/megorka/Django-shop">django-shop</a>
 
 - ❓ When project broken my team asked me for fix errors  
 
