@@ -1,43 +1,38 @@
-<h2 align="left">Hi 👋!</h2>
-
-# 💫About Me :
-- 😎 I'm Egor, a newbie FullStack developer since 2024
-
-- 🔭 I’m currently working on <a href="#">none</a>
-
-- ⚡ Fun fact: I like when my team working without me 
+<h1 align="left">Hi, What's up?</h1>
 
 ###
+
+<p align="left">My name is Egor and I'm a Golang Junior, from Russia</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Golang<br>🎲 Fun fact: All my project's don't have bugs but they have feature</p>
+
+###
+
+<h2 align="left">My hard skills</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="64" alt="python logo"  />
-  <img width="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/django/django-plain-wordmark.svg" height="64" alt="django logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="64" alt="mysql logo"  />
-  <img width="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/javascript/javascript-original.svg" height="64" alt="js logo"  />
-  <img width="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original.svg" height="64" alt="node logo"  />
-  <img width="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="64" alt="tailwindlogo"  />
-  <img width="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg" height="64" alt="next logo"  />
-  <img width="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" height="64" alt="express logo"  />
-  <img width="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" height="64" alt="react logo"  />
-  <img width="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/prisma/prisma-original.svg" height="64" alt="react logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="64" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/megorka/megorka/output/snake.svg" alt="Snake animation" />
 
